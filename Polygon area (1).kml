@@ -164,55 +164,6 @@
     </StyleMap>
     <Placemark>
       <name>ดอนเมือง</name>
-      <description><![CDATA[คำอธิบาย: <br>Shape_Leng: 0.142293102521000<br>Shape_Area: 0.000894017829097<br>ADM3_EN: Don Mueang<br>ADM3_TH: ????????<br>ADM3_PCODE: TH103604<br>ADM2_EN: Don Mueang<br>ADM2_TH: ????????<br>ADM2_PCODE: TH1036<br>ADM1_EN: Bangkok<br>ADM1_TH: ?????????????<br>ADM1_PCODE: TH10<br>ADM0_EN: Thailand<br>ADM0_TH: ?????????<br>ADM0_PCODE: TH]]></description>
-      <styleUrl>#poly-3949AB-1000-199</styleUrl>
-      <ExtendedData>
-        <Data name="คำอธิบาย">
-          <value/>
-        </Data>
-        <Data name="Shape_Leng">
-          <value>0.142293102521000</value>
-        </Data>
-        <Data name="Shape_Area">
-          <value>0.000894017829097</value>
-        </Data>
-        <Data name="ADM3_EN">
-          <value>Don Mueang</value>
-        </Data>
-        <Data name="ADM3_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM3_PCODE">
-          <value>TH103604</value>
-        </Data>
-        <Data name="ADM2_EN">
-          <value>Don Mueang</value>
-        </Data>
-        <Data name="ADM2_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM2_PCODE">
-          <value>TH1036</value>
-        </Data>
-        <Data name="ADM1_EN">
-          <value>Bangkok</value>
-        </Data>
-        <Data name="ADM1_TH">
-          <value>?????????????</value>
-        </Data>
-        <Data name="ADM1_PCODE">
-          <value>TH10</value>
-        </Data>
-        <Data name="ADM0_EN">
-          <value>Thailand</value>
-        </Data>
-        <Data name="ADM0_TH">
-          <value>?????????</value>
-        </Data>
-        <Data name="ADM0_PCODE">
-          <value>TH</value>
-        </Data>
-      </ExtendedData>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -408,55 +359,7 @@
     </Placemark>
     <Placemark>
       <name>สนามบิน</name>
-      <description><![CDATA[คำอธิบาย: <br>Shape_Leng: 0.174935667119000<br>Shape_Area: 0.001224095740980<br>ADM3_EN: Sanam Bin<br>ADM3_TH: ???????<br>ADM3_PCODE: TH103605<br>ADM2_EN: Don Mueang<br>ADM2_TH: ????????<br>ADM2_PCODE: TH1036<br>ADM1_EN: Bangkok<br>ADM1_TH: ?????????????<br>ADM1_PCODE: TH10<br>ADM0_EN: Thailand<br>ADM0_TH: ?????????<br>ADM0_PCODE: TH]]></description>
-      <styleUrl>#poly-FFFF8D-1000-138</styleUrl>
-      <ExtendedData>
-        <Data name="คำอธิบาย">
-          <value/>
-        </Data>
-        <Data name="Shape_Leng">
-          <value>0.174935667119000</value>
-        </Data>
-        <Data name="Shape_Area">
-          <value>0.001224095740980</value>
-        </Data>
-        <Data name="ADM3_EN">
-          <value>Sanam Bin</value>
-        </Data>
-        <Data name="ADM3_TH">
-          <value>???????</value>
-        </Data>
-        <Data name="ADM3_PCODE">
-          <value>TH103605</value>
-        </Data>
-        <Data name="ADM2_EN">
-          <value>Don Mueang</value>
-        </Data>
-        <Data name="ADM2_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM2_PCODE">
-          <value>TH1036</value>
-        </Data>
-        <Data name="ADM1_EN">
-          <value>Bangkok</value>
-        </Data>
-        <Data name="ADM1_TH">
-          <value>?????????????</value>
-        </Data>
-        <Data name="ADM1_PCODE">
-          <value>TH10</value>
-        </Data>
-        <Data name="ADM0_EN">
-          <value>Thailand</value>
-        </Data>
-        <Data name="ADM0_TH">
-          <value>?????????</value>
-        </Data>
-        <Data name="ADM0_PCODE">
-          <value>TH</value>
-        </Data>
-      </ExtendedData>
+
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -809,55 +712,7 @@
     </Placemark>
     <Placemark>
       <name>หลักหก</name>
-      <description><![CDATA[คำอธิบาย: <br>Shape_Leng: 0.134505026467000<br>Shape_Area: 0.000907905610869<br>ADM3_EN: Lak Hok<br>ADM3_TH: ??????<br>ADM3_PCODE: TH130114<br>ADM2_EN: Mueang Pathum Thani<br>ADM2_TH: ?????????????<br>ADM2_PCODE: TH1301<br>ADM1_EN: Pathum Thani<br>ADM1_TH: ????????<br>ADM1_PCODE: TH13<br>ADM0_EN: Thailand<br>ADM0_TH: ?????????<br>ADM0_PCODE: TH]]></description>
-      <styleUrl>#poly-FF5252-1000-179</styleUrl>
-      <ExtendedData>
-        <Data name="คำอธิบาย">
-          <value/>
-        </Data>
-        <Data name="Shape_Leng">
-          <value>0.134505026467000</value>
-        </Data>
-        <Data name="Shape_Area">
-          <value>0.000907905610869</value>
-        </Data>
-        <Data name="ADM3_EN">
-          <value>Lak Hok</value>
-        </Data>
-        <Data name="ADM3_TH">
-          <value>??????</value>
-        </Data>
-        <Data name="ADM3_PCODE">
-          <value>TH130114</value>
-        </Data>
-        <Data name="ADM2_EN">
-          <value>Mueang Pathum Thani</value>
-        </Data>
-        <Data name="ADM2_TH">
-          <value>?????????????</value>
-        </Data>
-        <Data name="ADM2_PCODE">
-          <value>TH1301</value>
-        </Data>
-        <Data name="ADM1_EN">
-          <value>Pathum Thani</value>
-        </Data>
-        <Data name="ADM1_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM1_PCODE">
-          <value>TH13</value>
-        </Data>
-        <Data name="ADM0_EN">
-          <value>Thailand</value>
-        </Data>
-        <Data name="ADM0_TH">
-          <value>?????????</value>
-        </Data>
-        <Data name="ADM0_PCODE">
-          <value>TH</value>
-        </Data>
-      </ExtendedData>
+
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1129,55 +984,7 @@
     </Placemark>
     <Placemark>
       <name>ประชาธิปัตย์</name>
-      <description><![CDATA[คำอธิบาย: <br>Shape_Leng: 0.183245929588000<br>Shape_Area: 0.001842072072640<br>ADM3_EN: Pracha Thipat<br>ADM3_TH: ????????????<br>ADM3_PCODE: TH130301<br>ADM2_EN: Thanyaburi<br>ADM2_TH: ???????<br>ADM2_PCODE: TH1303<br>ADM1_EN: Pathum Thani<br>ADM1_TH: ????????<br>ADM1_PCODE: TH13<br>ADM0_EN: Thailand<br>ADM0_TH: ?????????<br>ADM0_PCODE: TH]]></description>
-      <styleUrl>#poly-7CB342-1000-201</styleUrl>
-      <ExtendedData>
-        <Data name="คำอธิบาย">
-          <value/>
-        </Data>
-        <Data name="Shape_Leng">
-          <value>0.183245929588000</value>
-        </Data>
-        <Data name="Shape_Area">
-          <value>0.001842072072640</value>
-        </Data>
-        <Data name="ADM3_EN">
-          <value>Pracha Thipat</value>
-        </Data>
-        <Data name="ADM3_TH">
-          <value>????????????</value>
-        </Data>
-        <Data name="ADM3_PCODE">
-          <value>TH130301</value>
-        </Data>
-        <Data name="ADM2_EN">
-          <value>Thanyaburi</value>
-        </Data>
-        <Data name="ADM2_TH">
-          <value>???????</value>
-        </Data>
-        <Data name="ADM2_PCODE">
-          <value>TH1303</value>
-        </Data>
-        <Data name="ADM1_EN">
-          <value>Pathum Thani</value>
-        </Data>
-        <Data name="ADM1_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM1_PCODE">
-          <value>TH13</value>
-        </Data>
-        <Data name="ADM0_EN">
-          <value>Thailand</value>
-        </Data>
-        <Data name="ADM0_TH">
-          <value>?????????</value>
-        </Data>
-        <Data name="ADM0_PCODE">
-          <value>TH</value>
-        </Data>
-      </ExtendedData>
+
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1292,55 +1099,7 @@
     </Placemark>
     <Placemark>
       <name>คูคต</name>
-      <description><![CDATA[คำอธิบาย: <br>Shape_Leng: 0.194612378505000<br>Shape_Area: 0.001853800320300<br>ADM3_EN: Khu Khot<br>ADM3_TH: ????<br>ADM3_PCODE: TH130601<br>ADM2_EN: Lam Luk Ka<br>ADM2_TH: ???????<br>ADM2_PCODE: TH1306<br>ADM1_EN: Pathum Thani<br>ADM1_TH: ????????<br>ADM1_PCODE: TH13<br>ADM0_EN: Thailand<br>ADM0_TH: ?????????<br>ADM0_PCODE: TH]]></description>
-      <styleUrl>#poly-F57C00-1000-120</styleUrl>
-      <ExtendedData>
-        <Data name="คำอธิบาย">
-          <value/>
-        </Data>
-        <Data name="Shape_Leng">
-          <value>0.194612378505000</value>
-        </Data>
-        <Data name="Shape_Area">
-          <value>0.001853800320300</value>
-        </Data>
-        <Data name="ADM3_EN">
-          <value>Khu Khot</value>
-        </Data>
-        <Data name="ADM3_TH">
-          <value>????</value>
-        </Data>
-        <Data name="ADM3_PCODE">
-          <value>TH130601</value>
-        </Data>
-        <Data name="ADM2_EN">
-          <value>Lam Luk Ka</value>
-        </Data>
-        <Data name="ADM2_TH">
-          <value>???????</value>
-        </Data>
-        <Data name="ADM2_PCODE">
-          <value>TH1306</value>
-        </Data>
-        <Data name="ADM1_EN">
-          <value>Pathum Thani</value>
-        </Data>
-        <Data name="ADM1_TH">
-          <value>????????</value>
-        </Data>
-        <Data name="ADM1_PCODE">
-          <value>TH13</value>
-        </Data>
-        <Data name="ADM0_EN">
-          <value>Thailand</value>
-        </Data>
-        <Data name="ADM0_TH">
-          <value>?????????</value>
-        </Data>
-        <Data name="ADM0_PCODE">
-          <value>TH</value>
-        </Data>
-      </ExtendedData>
+
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
